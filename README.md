@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tao-Optim
-- 👀 I’m interested in Optimization in Supply Chain
+- 👀 I’m interested in Optimization
 - 🌱 I’m currently learning Operational Research and Combinatory Optimization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
